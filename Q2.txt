@@ -1,0 +1,1 @@
+The Having clause if parallel to the where clause, except it applies checks if a condition applies to groups of tuples rather than just a single tuple.  Group by var_name consolidates all the values that have the same value of var_name.  Order by displays the output tuples in an order determined by the value ofcolumn selected, in ascending order by default
